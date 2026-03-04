@@ -23,7 +23,7 @@ import androidx.compose.ui.unit.dp
 internal object SheetBottomTokens {
     val DockedContainerColor = ColorSchemeKeyTokens.SurfaceContainerLow
     val DockedContainerShape = ShapeKeyTokens.CornerExtraLargeTop
-    val DockedDragHandleColor = ColorSchemeKeyTokens.OnSurfaceVariant
+    val DockedDragHandleColor = ColorSchemeKeyTokens.Outline
     val DockedDragHandleHeight = 4.0.dp
     val DockedDragHandleWidth = 32.0.dp
     val DockedMinimizedContainerShape = ShapeKeyTokens.CornerNone
